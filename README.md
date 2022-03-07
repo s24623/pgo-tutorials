@@ -1,2 +1,3 @@
-# pgo-tutorials
-Didactics purposes project
+Piotr Gniadke
+13c
+s24623
