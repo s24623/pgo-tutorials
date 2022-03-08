@@ -1,0 +1,31 @@
+public class Person {
+String name;
+String surname;
+int age; 
+
+public string IntroduceYourself()
+}
+
+public class Student extends Person {
+String StudentNumber;
+int AverageMark;
+
+boolean  IsEligibleToEnroll()
+boolean GetSeminarsTaken()
+
+}
+
+public class Professor extends Person {
+int Salary;
+}
+
+public class Adress {
+String Street;
+String City;
+String State;
+String PostalCode;
+String Country;
+
+boolean Validate()
+String OutputAsLabel()
+}
